@@ -9,7 +9,7 @@ public class EmployeeDTO implements Serializable {
 
     // 来自02-03第二分钟的注释，需要注释掉id
     // TODO
-    // private Long id;
+    private Long id;
 
     private String username;
 
